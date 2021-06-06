@@ -1,6 +1,10 @@
 {
   "sidebar": [
     {
+      "section": "Governance",
+      "topics": ""
+    },
+    {
       "section": "Environment",
       "topics": [
         {
